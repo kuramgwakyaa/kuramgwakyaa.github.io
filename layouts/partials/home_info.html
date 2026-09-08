@@ -1,0 +1,27 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
+        {{- if .imageUrl }}
+        <img src="{{ .imageUrl | relURL }}" alt="{{ .imageTitle | default "Kuram Gwakyaa" }}" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; border: 3px solid #e0e0e0; box-shadow: 0 4px 12px rgba(0,0,0,0.08); flex-shrink: 0;" />
+        {{- end }}
+        <div style="flex: 1; min-width: 250px;">
+            <header class="entry-header" style="margin-bottom: 0.35rem;">
+                <h1 style="margin: 0; font-size: 1.7rem; line-height: 1.2;">{{ .Title | markdownify }}</h1>
+            </header>
+            <div class="entry-content md-content" style="margin: 0;">
+                <style>
+                    .home-info .entry-content p {
+                        margin: 0.25rem 0 !important;
+                        line-height: 1.45 !important;
+                    }
+                </style>
+                {{ $opts := dict "display" "block" }}
+                {{ .Content | $.Page.RenderString $opts }}
+            </div>
+            <footer class="entry-footer" style="margin-top: 0.4rem;">
+                {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+            </footer>
+        </div>
+    </div>
+</article>
+{{- end -}}

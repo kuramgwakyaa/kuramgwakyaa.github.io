@@ -1,0 +1,91 @@
+baseURL = '/'
+locale = 'en-gb'
+title = 'Kuram Gwakyaa'
+theme = 'PaperMod'
+
+pagination.pagerSize = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[minify]
+  disableXML = false
+  minifyOutput = true
+
+[params]
+  env = 'production'
+  title = 'Kuram Gwakyaa'
+  description = 'Head of Sustainability | Environmental Engineer & Facilities Management Leader'
+  keywords = ['Sustainability', 'Facilities Management', 'Net Zero', 'Energy Management', 'Environmental Engineering', 'Kuram Gwakyaa']
+  author = 'Kuram Gwakyaa'
+  
+  # Theme appearance: set light mode default
+  defaultTheme = 'light'
+  disableThemeToggle = false
+
+  # Layout & Display options
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  # Header configuration
+  [params.label]
+    text = 'Kuram Gwakyaa'
+
+  # Home page configuration
+  [params.homeInfoParams]
+    title = "Hello, I'm Kuram Gwakyaa 👋"
+    imageUrl = "/images/kuram-gwakyaa.jpg"
+    imageTitle = "Kuram Gwakyaa"
+    content = """
+**Founder of SustainabilityLoft** | **Head of Sustainability at Mitie** \
+Chartered Environmentalist (CEnv) & Chemical Engineer.
+
+Leading zero-carbon transformations, facilities management innovation, and practical sustainability strategy across major public and private sector accounts.
+    """
+
+  # Social Icons
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://uk.linkedin.com/in/kuram-gwakyaa-6a812a10a"
+
+  [[params.socialIcons]]
+    name = "substack"
+    url = "https://kuramgwakyaa.substack.com"
+
+# Navigation Menu
+[[menus.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menus.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menus.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 30
+
+[[menus.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

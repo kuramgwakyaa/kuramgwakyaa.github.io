@@ -1,0 +1,6 @@
+/* Custom CSS extensions */
+
+/* Make background color identical and consistent across all pages (home list, about page, posts, search) */
+.list {
+    background: var(--theme);
+}
