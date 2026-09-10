@@ -25,3 +25,14 @@
     </div>
 </article>
 {{- end -}}
+
+{{- $mainSections := site.Params.mainSections | default (slice "posts") }}
+{{- $pages := where site.RegularPages "Type" "in" $mainSections }}
+{{- if gt (len $pages) 0 }}
+<header class="posts-section-header">
+    <h2 class="posts-section-title">{{ site.Params.homePostsHeader | default (site.Params.homeInfoParams.postsTitle | default "Recent Posts") }}</h2>
+    {{- with site.GetPage "posts" }}
+    <a href="{{ .RelPermalink }}" class="posts-section-link">View all &rarr;</a>
+    {{- end }}
+</header>
+{{- end -}}

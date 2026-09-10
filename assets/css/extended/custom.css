@@ -4,3 +4,34 @@
 .list {
     background: var(--theme);
 }
+
+/* Home page posts section header */
+.posts-section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 18px;
+    padding: 0 2px;
+}
+
+.posts-section-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin: 0;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+}
+
+.posts-section-link {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--secondary);
+    text-decoration: none;
+    transition: color 0.15s ease;
+}
+
+.posts-section-link:hover {
+    color: var(--primary);
+}
+

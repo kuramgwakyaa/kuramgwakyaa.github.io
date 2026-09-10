@@ -41,16 +41,18 @@ buildExpired = false
   [params.label]
     text = 'Kuram Gwakyaa'
 
+  # Section header above posts on homepage
+  homePostsHeader = "Recent Posts"
+
   # Home page configuration
   [params.homeInfoParams]
     title = "Hello, I'm Kuram Gwakyaa 👋"
     imageUrl = "/images/kuram-gwakyaa.jpg"
     imageTitle = "Kuram Gwakyaa"
     content = """
-**Founder of SustainabilityLoft** | **Head of Sustainability at Mitie** \
-Chartered Environmentalist (CEnv) & Chemical Engineer.
+**Founder of SustainabilityLoft** | **Head of Sustainability**
 
-Leading zero-carbon transformations, facilities management innovation, and practical sustainability strategy across major public and private sector accounts.
+Kuram is an award-winning sustainability leader, writer and public speaker. His writing explores sustainability, culture, identity, social behaviour, and the gap between what societies claim to value and how they actually behave.
     """
 
   # Social Icons

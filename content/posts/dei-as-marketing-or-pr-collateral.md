@@ -8,7 +8,7 @@ summary: "A personal reflection on how organisations often treat DEI as a PR exe
 canonicalURL: "https://kuramgwakyaa.substack.com/p/dei-as-marketing-or-pr-collateral"
 ---
 
-![Hero Image](/images/heroes/dei.webp)
+![Hero Image](/images/heroes/dei.jpeg)
 
 As a black person, recent conversations about DEI has brought into focus concerns I’ve held about DEI and how I believe it is often used as marketing or PR material by institutions.
 
