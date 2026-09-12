@@ -13,7 +13,18 @@ Throughout my career, I have worked across fire safety, energy management, envir
 
 ---
 
-## Professional Qualifications & Memberships
+## Qualifications
+
+- **MSc** - Renewable Energy and Energy Management
+- **BSc Hons** - Chemical Engineering
+- **University Higher Certificate** - Quality Management
+- **ProQual Level 4 Award** - Advanced Fire Risk Assessment - Ongoing
+- **NEBOSH** - National General Certificate in Occupational Health and Safety
+- **IFE Level 3** - Certificate in Passive Fire Protection
+- **ISO 9001: 2015** - Quality Management System Lead Auditor
+- **ISO 14001:2015** - Environmental Management System Lead Auditor Conversion
+
+## Professional Memberships
 
 - **CEnv** — Chartered Environmentalist (Society for the Environment)
 - **CEng Interim** — Chartered Engineer Pathway
@@ -21,6 +32,8 @@ Throughout my career, I have worked across fire safety, energy management, envir
 - **MIFSM** — Member of the Institute of Fire Safety Managers
 - **AIFireE** — Associate of the Institution of Fire Engineers
 - **AMEI** — Associate Member of the Energy Institute
+- **CQP** - Chartered Quality Professional
+- **MCQI** - Member of the Chartered Quality Institute
 
 ---
 
