@@ -7,9 +7,13 @@ description: "Professional profile and biography of Kuram Gwakyaa, Head of Susta
 
 ## Welcome
 
-I am Kuram Gwakyaa, a Chartered Environmentalist (CEnv) and Chemical Engineer specializing in sustainability strategy, net-zero execution, and built environment management. Currently, I serve as Head of Sustainability at Mitie, leading the strategic sustainability roadmap for the Department for Work & Pensions (DWP) account.
+I am Kuram Gwakyaa, an award-winning sustainability leader, writer and public speaker. My writing explores sustainability, culture, identity, social behaviour, and the gap between what societies claim to value and how they actually behave.
 
-Throughout my career, I have worked across fire safety, energy management, environmental compliance, and quality systems. My focus is on moving beyond high-level sustainability ambitions to deliver actionable, on-the-ground operational results.
+I believe sustainability is not about distant ambitions or corporate commitments alone. It is about empowering people, influencing behaviour, and delivering measurable action where it matters most.
+
+As an award-winning sustainability leader, Chartered Environmentalist, author, and founder of Sustainability Loft, I have spent more than fifteen years helping organisations transform sustainability from a strategic aspiration into an operational reality. My work combines sustainability, social value, compliance, quality, and organisational transformation to create solutions that deliver lasting environmental, social, and business outcomes.
+
+Through thought leadership, public speaking, writing, and community engagement, I am committed to making sustainability understandable, achievable, and relevant to everyone. Whether discussing net zero, social value, responsible innovation, or the impact of artificial intelligence, my mission remains the same: to inspire action and help create a future where sustainability is embedded in everything we do.
 
 ---
 
