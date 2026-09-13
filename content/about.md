@@ -39,6 +39,14 @@ Through thought leadership, public speaking, writing, and community engagement, 
 - **CQP** - Chartered Quality Professional
 - **MCQI** - Member of the Chartered Quality Institute
 
+## Awards and Recognitions
+
+- **UK Green Business Awards** – Sustainability Leader of the Year (Highly Commended), 2026.
+- **Workplace Leaders Top 50** – Named in the Class of 2026.
+- **Energy Managers Association** – Sustainability Manager of the Year, 2024.
+- **CIBSE Building Performance Awards** – Leadership Finalist, 2025.
+- **Edie Awards** – Sustainability Leader of the Year Finalist, 2025.
+
 ---
 
 ## Focus Areas
