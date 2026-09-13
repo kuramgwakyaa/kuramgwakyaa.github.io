@@ -7,7 +7,7 @@ description: "Professional profile and biography of Kuram Gwakyaa, Head of Susta
 
 ## Welcome
 
-I am **Kuram Gwakyaa**, a Chartered Environmentalist (CEnv) and Chemical Engineer specializing in sustainability strategy, net-zero execution, and built environment management. Currently, I serve as **Head of Sustainability** at **Mitie**, leading the strategic sustainability roadmap for the Department for Work & Pensions (DWP) account.
+I am Kuram Gwakyaa, a Chartered Environmentalist (CEnv) and Chemical Engineer specializing in sustainability strategy, net-zero execution, and built environment management. Currently, I serve as Head of Sustainability at Mitie, leading the strategic sustainability roadmap for the Department for Work & Pensions (DWP) account.
 
 Throughout my career, I have worked across fire safety, energy management, environmental compliance, and quality systems. My focus is on moving beyond high-level sustainability ambitions to deliver actionable, on-the-ground operational results.
 
