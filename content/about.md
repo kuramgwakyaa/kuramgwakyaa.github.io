@@ -22,7 +22,7 @@ Through thought leadership, public speaking, writing, and community engagement, 
 - **MSc** - Renewable Energy and Energy Management
 - **BSc Hons** - Chemical Engineering
 - **University Higher Certificate** - Quality Management
-- **ProQual Level 4 Award** - Advanced Fire Risk Assessment - Ongoing
+- **ProQual Level 4 Award** - Advanced Fire Risk Assessment
 - **NEBOSH** - National General Certificate in Occupational Health and Safety
 - **IFE Level 3** - Certificate in Passive Fire Protection
 - **ISO 9001: 2015** - Quality Management System Lead Auditor
@@ -41,16 +41,29 @@ Through thought leadership, public speaking, writing, and community engagement, 
 
 ---
 
-## Strategic Focus Areas
+## Focus Areas
 
-1. **Facilities Management & Net Zero**
-   Integrating decarbonisation goals directly into daily operational processes within large-scale public and commercial real estate estates.
+1. **Sustainability Leadership** - Driving sustainability strategy, organisational transformation, and embedding sustainability into operational decision-making.
 
-2. **Energy Efficiency & Decarbonisation**
-   Developing pragmatic pathways to eliminate Scope 1, 2, and 3 emissions across infrastructure.
+2. **Environmental Sustainability** - Delivering practical solutions that improve environmental performance, resource efficiency, resilience, and long-term value.
 
-3. **Fire & Environmental Safety**
-   Bridging compliance, risk management, and environmental stewardship to create resilient and safe environments.
+3. **Net Zero & Decarbonisation** - Developing and implementing strategies that reduce carbon emissions and accelerate the transition to a low-carbon future.
+
+4. **Energy Efficiency** - Optimising energy performance through data-driven approaches, operational improvements, and low-carbon technologies.
+
+5. **Social Value** - Creating meaningful social impact through community engagement, responsible business practices, and sustainable outcomes.
+
+6. **Facilities Management** - Integrating sustainability, operational excellence, and innovation to enhance the performance of buildings, assets, and services.
+
+7. **Compliance & Assurance** - Ensuring robust governance, regulatory compliance, risk management, and continuous improvement across complex operations.
+
+8. **Fire Safety** - Promoting safe, compliant, and resilient environments through effective fire safety leadership and risk management.
+
+9. **Health & Safety** - Embedding strong safety cultures that protect people, support wellbeing, and improve organisational performance.
+
+10. **Quality Management** - Driving operational excellence through management systems, process optimisation, and continuous improvement.
+
+11. **AI & Responsible Innovation** - Harnessing emerging technologies to accelerate sustainability outcomes, enhance decision-making, and create positive societal impact.
 
 ---
 
@@ -60,13 +73,16 @@ I regularly contribute to key industry conferences and thought leadership panels
 
 - **Sustainability LIVE Keynote** — [*Leading Transformation in Facilities Management for a Sustainable Future*](/posts/sustainability-live-leading-transformation-facilities-management/)
 - **Sustainability LIVE Q&A** — [*Redefining Workplaces, Smart Infrastructure, and ESG Leadership*](/posts/sustainability-live-qa-redefining-workplaces-net-zero/)
-- **EMEX London** — *Net Zero Strategies and Practical Energy Management*
-- **The Big Zero Show** — *Accelerating the Public Sector Net-Zero Journey*
-- **Futurebuild** — *Impact Stages: Built Environment Innovation*
-- **edie** — *Sustainability Leadership & FM Execution*
+- **Sustainability LIVE** - [*Net Zero*](https://www.linkedin.com/posts/sustainabilitymagazine_sustainabilitylive-netzero-esg-activity-7292104151449128961-rVtL)
+- **EMEX London** — [*Net Zero Strategies and Practical Energy Management*](https://www.emexlondon.com/speakers/kuram-gwakyaa)
+- **The Big Zero Show** — [*Accelerating the Public Sector Net-Zero Journey*](https://bigzeroshow.com/speakers/kuram-gwakyaa/)
+- **Futurebuild** — [*Impact Stages: Built Environment Innovation*](https://futurebuild-2025.events.lineup.ninja/contributor/list)
+- **edie** — [*Sustainability Leadership & FM Execution*](https://event.edie.net/home/speaker/1851207/kuram-gwakyaa)
+- **KEYNOTION** - [*ESG Data Revolution: Cutting Through the Noise*](https://www.linkedin.com/posts/keynotion_esgdata-dataforsustainability-reporting-activity-7435663021831757824-4xl6/)
+- **Risilience** - [*Fireside Chat*](https://risilience.com/resources/events/breakfast-with-risilience-at-london-climate-action-week/)
 
 ---
 
 ## Connect & Collaborate
 
-If you are interested in discussing net zero pathways, sustainable facility management, or energy transformation, feel free to reach out via [LinkedIn](https://uk.linkedin.com/in/kuram-gwakyaa-6a812a10a) or read my writing on [Substack](https://kuramgwakyaa.substack.com).
+If you are interested in connecting, feel free to reach out via [LinkedIn](https://uk.linkedin.com/in/kuram-gwakyaa-6a812a10a) or read my writing on [Substack](https://kuramgwakyaa.substack.com).
