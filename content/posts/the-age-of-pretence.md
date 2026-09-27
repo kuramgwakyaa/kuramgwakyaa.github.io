@@ -8,7 +8,7 @@ summary: "Why authenticity has become one of the rarest qualities in modern life
 canonicalURL: "https://kuramgwakyaa.substack.com/p/the-age-of-pretence"
 ---
 
-![Hero Image](/images/heroes/pretence.jpeg)
+![Hero Image](/images/heroes/pretence.jpg)
 
 One of the strangest features of modern life is that we live in a society that celebrates authenticity while quietly rewarding performance. We are constantly encouraged to be ourselves, to speak our truth, to bring our authentic selves to work, and to embrace individuality. Yet, in practice, many of the environments we inhabit reward something very different. They reward conformity, social awareness, and the ability to read a room whilst instinctively understanding what can and cannot be said. The result is that many people learn to present versions of themselves that fit the expectations of the moment, rather than revealing who they genuinely are.
 
